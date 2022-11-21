@@ -1,0 +1,13 @@
+H1 {color: white; }
+h3 {color: white; text-decoration: underline;}
+p {color: white;}
+a {color: rgb(161, 145, 0);}
+b {color: rgb(161, 145, 0); text-decoration: underline;}
+body {background-color: rgba(0, 0, 0, 0.918);}
+body {font-family: Garamond, serif;}
+body { margin: 0 auto; max-width: 100em; }
+body {line-height: 1.5; padding: 20em 1em;}
+h2 {margin-top: 1em; padding-top: 1em;}
+p { margin: 0 auto; max-width: 95em; }
+.column {float: right; width: 33.33%; padding: 3px;}
+.row::after {content: ""; clear: both; display: table;}
